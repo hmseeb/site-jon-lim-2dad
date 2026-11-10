@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Visita Home Health">
+  <rect width="64" height="64" rx="14" fill="#0d3b39"/>
+  <path d="M32 13 13 27.8V51h12.5V38.6h13V51H51V27.8L32 13Z" fill="none" stroke="#fbf7f1" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M32 24.5v9M27.5 29h9" fill="none" stroke="#d1663c" stroke-width="4" stroke-linecap="round"/>
+</svg>
